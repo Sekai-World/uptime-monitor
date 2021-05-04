@@ -6,7 +6,7 @@ sites:
   - name: Sekai Viewer
     url: https://sekai.best
   - name: API
-    url: https://api.sekai.best
+    url: https://api.sekai.best/status
   - name: Strapi
     url: https://strapi.sekai.best
 
