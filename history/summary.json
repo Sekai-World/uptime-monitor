@@ -4,28 +4,30 @@
     "url": "https://sekai.best",
     "icon": "https://favicons.githubusercontent.com/sekai.best",
     "slug": "sekai-viewer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 608,
     "timeDay": 420,
     "timeWeek": 490,
     "timeMonth": 613,
     "timeYear": 608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-06": 3
+    }
   },
   {
     "name": "API",
     "url": "https://api.sekai.best/status",
     "icon": "https://favicons.githubusercontent.com/api.sekai.best",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 662,
@@ -33,16 +35,18 @@
     "timeWeek": 725,
     "timeMonth": 712,
     "timeYear": 662,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-06": 2
+    }
   },
   {
     "name": "Strapi",
     "url": "https://strapi.sekai.best",
     "icon": "https://favicons.githubusercontent.com/strapi.sekai.best",
     "slug": "strapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 528,
     "timeMonth": 597,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-06": 0
+    }
   }
 ]
