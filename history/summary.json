@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/sekai.best",
     "slug": "sekai-viewer",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 608,
     "timeDay": 420,
     "timeWeek": 490,
     "timeMonth": 613,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2021-07-06": 3
+      "2021-07-06": 14
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.sekai.best/status",
     "icon": "https://favicons.githubusercontent.com/api.sekai.best",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 232,
-    "timeWeek": 725,
-    "timeMonth": 712,
-    "timeYear": 662,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 658,
+    "timeDay": 320,
+    "timeWeek": 685,
+    "timeMonth": 703,
+    "timeYear": 658,
     "dailyMinutesDown": {
-      "2021-07-06": 2
+      "2021-07-06": 12
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://strapi.sekai.best",
     "icon": "https://favicons.githubusercontent.com/strapi.sekai.best",
     "slug": "strapi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 525,
-    "timeWeek": 528,
-    "timeMonth": 597,
-    "timeYear": 603,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 617,
+    "timeDay": 1019,
+    "timeWeek": 651,
+    "timeMonth": 626,
+    "timeYear": 617,
     "dailyMinutesDown": {
-      "2021-07-06": 0
+      "2021-07-06": 10
     }
   }
 ]
