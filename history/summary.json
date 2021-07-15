@@ -6,12 +6,12 @@
     "slug": "sekai-viewer",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "97.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.94%",
     "time": 606,
-    "timeDay": 491,
+    "timeDay": 493,
     "timeWeek": 597,
     "timeMonth": 594,
     "timeYear": 606,
@@ -46,9 +46,9 @@
     "url": "https://strapi.sekai.best",
     "icon": "https://favicons.githubusercontent.com/strapi.sekai.best",
     "slug": "strapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -58,6 +58,7 @@
     "timeMonth": 583,
     "timeYear": 617,
     "dailyMinutesDown": {
+      "2021-07-15": 0,
       "2021-07-06": 10
     }
   }
