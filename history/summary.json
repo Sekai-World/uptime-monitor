@@ -10,10 +10,10 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.03%",
-    "time": 893,
-    "timeDay": 882,
-    "timeWeek": 1184,
-    "timeMonth": 1180,
+    "time": 892,
+    "timeDay": 316,
+    "timeWeek": 1063,
+    "timeMonth": 1152,
     "timeYear": 1016,
     "dailyMinutesDown": {
       "2022-10-06": 16,
@@ -50,15 +50,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "97.48%",
-    "uptimeDay": "95.92%",
+    "uptimeDay": "97.44%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "96.41%",
     "time": 776,
-    "timeDay": 1144,
-    "timeWeek": 1264,
-    "timeMonth": 1303,
-    "timeYear": 848,
+    "timeDay": 1138,
+    "timeWeek": 1240,
+    "timeMonth": 1296,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2022-10-07": 37,
       "2022-10-06": 38,
@@ -88,8 +88,7 @@
       "2022-02-19": 18,
       "2021-11-22": 17,
       "2021-11-20": 79,
-      "2021-11-08": 85,
-      "2021-10-08": 300
+      "2021-11-08": 85
     }
   },
   {
@@ -99,15 +98,15 @@
     "slug": "strapi",
     "status": "up",
     "uptime": "97.70%",
-    "uptimeDay": "92.04%",
+    "uptimeDay": "97.04%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "96.72%",
-    "time": 822,
-    "timeDay": 1124,
-    "timeWeek": 1223,
-    "timeMonth": 1238,
-    "timeYear": 920,
+    "time": 823,
+    "timeDay": 1230,
+    "timeWeek": 1200,
+    "timeMonth": 1231,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2022-10-07": 43,
       "2022-10-06": 72,
@@ -132,8 +131,7 @@
       "2022-06-13": 545,
       "2022-06-12": 189,
       "2022-02-20": 24,
-      "2021-11-20": 40,
-      "2021-10-08": 300
+      "2021-11-20": 40
     }
   }
 ]
