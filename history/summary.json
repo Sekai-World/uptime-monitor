@@ -6,17 +6,16 @@
     "slug": "sekai-viewer",
     "status": "up",
     "uptime": "97.12%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "95.11%",
     "time": 1170,
     "timeDay": 1218,
-    "timeWeek": 1124,
+    "timeWeek": 1150,
     "timeMonth": 1102,
     "timeYear": 1247,
     "dailyMinutesDown": {
-      "2023-01-24": 5,
       "2022-11-24": 1259,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
@@ -57,12 +56,12 @@
     "status": "up",
     "uptime": "95.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.49%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "92.70%",
     "time": 918,
     "timeDay": 1323,
-    "timeWeek": 1226,
+    "timeWeek": 1165,
     "timeMonth": 1201,
     "timeYear": 977,
     "dailyMinutesDown": {
@@ -122,12 +121,12 @@
     "status": "up",
     "uptime": "96.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "94.21%",
     "time": 1199,
     "timeDay": 858,
-    "timeWeek": 1644,
+    "timeWeek": 1151,
     "timeMonth": 1314,
     "timeYear": 1366,
     "dailyMinutesDown": {
@@ -174,9 +173,9 @@
     "url": "https://storage.sekai.best/sekai-assets/character/member_small/res001_no001_rip/card_normal.webp",
     "icon": "https://icons.duckduckgo.com/ip3/storage.sekai.best.ico",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,6 +184,8 @@
     "timeWeek": 1024,
     "timeMonth": 429,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-24": 0
+    }
   }
 ]
