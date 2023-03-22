@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sekai.best.ico",
     "slug": "sekai-viewer",
     "status": "up",
-    "uptime": "97.35%",
+    "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -175,17 +175,19 @@
     "url": "https://storage.sekai.best/sekai-assets/character/member_small/res001_no001_rip/card_normal.webp",
     "icon": "https://icons.duckduckgo.com/ip3/storage.sekai.best.ico",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 294,
-    "timeWeek": 235,
-    "timeMonth": 1890,
-    "timeYear": 707,
-    "dailyMinutesDown": {}
+    "time": 780,
+    "timeDay": 5994,
+    "timeWeek": 1668,
+    "timeMonth": 2228,
+    "timeYear": 780,
+    "dailyMinutesDown": {
+      "2023-03-22": 0
+    }
   }
 ]
