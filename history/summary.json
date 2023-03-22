@@ -175,11 +175,11 @@
     "url": "https://storage.sekai.best/sekai-assets/character/member_small/res001_no001_rip/card_normal.webp",
     "icon": "https://icons.duckduckgo.com/ip3/storage.sekai.best.ico",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 966,
     "timeDay": 6397,
@@ -187,7 +187,7 @@
     "timeMonth": 2865,
     "timeYear": 966,
     "dailyMinutesDown": {
-      "2023-03-22": 5
+      "2023-03-22": 0
     }
   }
 ]
