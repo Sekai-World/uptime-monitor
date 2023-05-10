@@ -8,7 +8,7 @@
     "uptime": "94.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "53.01%",
+    "uptimeMonth": "53.10%",
     "uptimeYear": "89.18%",
     "time": 1175,
     "timeDay": 1172,
@@ -80,7 +80,7 @@
     "uptime": "93.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "53.01%",
+    "uptimeMonth": "53.10%",
     "uptimeYear": "86.69%",
     "time": 1005,
     "timeDay": 1007,
@@ -168,7 +168,7 @@
     "uptime": "94.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "53.01%",
+    "uptimeMonth": "53.10%",
     "uptimeYear": "88.28%",
     "time": 1297,
     "timeDay": 1470,
@@ -245,17 +245,15 @@
     "slug": "storage",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1219,
     "timeDay": 15650,
     "timeWeek": 6426,
     "timeMonth": 2936,
     "timeYear": 1219,
-    "dailyMinutesDown": {
-      "2023-05-09": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
