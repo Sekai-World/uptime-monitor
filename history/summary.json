@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sekai.best.ico",
     "slug": "sekai-viewer",
     "status": "up",
-    "uptime": "94.93%",
+    "uptime": "94.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "73.35%",
     "uptimeMonth": "93.78%",
-    "uptimeYear": "89.33%",
-    "time": 1260,
-    "timeDay": 1395,
-    "timeWeek": 1087,
-    "timeMonth": 1577,
-    "timeYear": 1443,
+    "uptimeYear": "89.60%",
+    "time": 1262,
+    "timeDay": 1300,
+    "timeWeek": 1084,
+    "timeMonth": 1575,
+    "timeYear": 1444,
     "dailyMinutesDown": {
       "2023-08-05": 1045,
       "2023-08-04": 1440,
@@ -61,8 +61,7 @@
       "2022-08-14": 1440,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
-      "2022-08-11": 1440,
-      "2022-08-10": 1440
+      "2022-08-11": 1440
     }
   },
   {
@@ -75,12 +74,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "87.22%",
-    "time": 1134,
-    "timeDay": 1202,
-    "timeWeek": 1346,
-    "timeMonth": 1478,
-    "timeYear": 1257,
+    "uptimeYear": "87.49%",
+    "time": 1135,
+    "timeDay": 1289,
+    "timeWeek": 1313,
+    "timeMonth": 1470,
+    "timeYear": 1258,
     "dailyMinutesDown": {
       "2023-07-27": 37,
       "2023-07-05": 267,
@@ -140,8 +139,7 @@
       "2022-08-14": 1440,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
-      "2022-08-11": 1440,
-      "2022-08-10": 1440
+      "2022-08-11": 1440
     }
   },
   {
@@ -154,12 +152,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "89.23%",
-    "time": 1442,
-    "timeDay": 1177,
-    "timeWeek": 1286,
-    "timeMonth": 1419,
-    "timeYear": 1655,
+    "uptimeYear": "89.51%",
+    "time": 1419,
+    "timeDay": 1593,
+    "timeWeek": 1300,
+    "timeMonth": 1420,
+    "timeYear": 1657,
     "dailyMinutesDown": {
       "2023-07-27": 35,
       "2023-07-05": 260,
@@ -208,8 +206,7 @@
       "2022-08-14": 1440,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
-      "2022-08-11": 1440,
-      "2022-08-10": 1440
+      "2022-08-11": 1440
     }
   },
   {
@@ -223,11 +220,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 5121,
-    "timeDay": 35,
-    "timeWeek": 89,
+    "time": 5109,
+    "timeDay": 39,
+    "timeWeek": 82,
     "timeMonth": 126,
-    "timeYear": 5121,
+    "timeYear": 5109,
     "dailyMinutesDown": {
       "2023-05-12": 476,
       "2023-05-11": 1037,
