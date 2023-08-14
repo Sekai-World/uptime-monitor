@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.78%",
-    "uptimeYear": "90.42%",
-    "time": 1270,
-    "timeDay": 1478,
-    "timeWeek": 1453,
-    "timeMonth": 1596,
-    "timeYear": 1451,
+    "uptimeYear": "90.70%",
+    "time": 1272,
+    "timeDay": 1515,
+    "timeWeek": 1493,
+    "timeMonth": 1605,
+    "timeYear": 1454,
     "dailyMinutesDown": {
       "2023-08-05": 1045,
       "2023-08-04": 1440,
@@ -57,8 +57,7 @@
       "2022-10-06": 16,
       "2022-08-26": 19,
       "2022-08-16": 1406,
-      "2022-08-15": 1440,
-      "2022-08-14": 1440
+      "2022-08-15": 1440
     }
   },
   {
@@ -71,12 +70,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "88.31%",
-    "time": 1140,
-    "timeDay": 1126,
-    "timeWeek": 1107,
-    "timeMonth": 1404,
-    "timeYear": 1257,
+    "uptimeYear": "88.58%",
+    "time": 1142,
+    "timeDay": 1637,
+    "timeWeek": 1114,
+    "timeMonth": 1413,
+    "timeYear": 1260,
     "dailyMinutesDown": {
       "2023-07-27": 37,
       "2023-07-05": 267,
@@ -132,8 +131,7 @@
       "2022-10-07": 37,
       "2022-10-06": 38,
       "2022-08-16": 1406,
-      "2022-08-15": 1440,
-      "2022-08-14": 1440
+      "2022-08-15": 1440
     }
   },
   {
@@ -142,16 +140,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.sekai.best.ico",
     "slug": "strapi",
     "status": "up",
-    "uptime": "94.79%",
+    "uptime": "94.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "90.33%",
-    "time": 1427,
-    "timeDay": 1171,
-    "timeWeek": 2356,
-    "timeMonth": 1720,
-    "timeYear": 1690,
+    "uptimeYear": "90.60%",
+    "time": 1429,
+    "timeDay": 1594,
+    "timeWeek": 2628,
+    "timeMonth": 1729,
+    "timeYear": 1693,
     "dailyMinutesDown": {
       "2023-07-27": 35,
       "2023-07-05": 260,
@@ -196,8 +194,7 @@
       "2022-10-07": 43,
       "2022-10-06": 72,
       "2022-08-16": 1416,
-      "2022-08-15": 1440,
-      "2022-08-14": 1440
+      "2022-08-15": 1440
     }
   },
   {
@@ -211,11 +208,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 5074,
-    "timeDay": 38,
-    "timeWeek": 81,
-    "timeMonth": 130,
-    "timeYear": 5074,
+    "time": 5062,
+    "timeDay": 96,
+    "timeWeek": 77,
+    "timeMonth": 129,
+    "timeYear": 5062,
     "dailyMinutesDown": {
       "2023-05-12": 476,
       "2023-05-11": 1037,
