@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sekai.best.ico",
     "slug": "sekai-viewer",
     "status": "up",
-    "uptime": "95.45%",
+    "uptime": "95.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.58%",
+    "uptimeYear": "92.86%",
     "time": 1432,
-    "timeDay": 471,
-    "timeWeek": 1048,
-    "timeMonth": 1793,
-    "timeYear": 1245,
+    "timeDay": 967,
+    "timeWeek": 989,
+    "timeMonth": 1780,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2023-08-18": 661,
       "2023-08-17": 42,
@@ -47,8 +47,7 @@
       "2023-04-03": 1440,
       "2023-04-02": 519,
       "2023-02-21": 24,
-      "2022-11-24": 1259,
-      "2022-11-23": 1440
+      "2022-11-24": 1259
     }
   },
   {
@@ -61,11 +60,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.67%",
-    "time": 1342,
-    "timeDay": 1308,
-    "timeWeek": 1069,
-    "timeMonth": 1627,
+    "uptimeYear": "91.94%",
+    "time": 1341,
+    "timeDay": 667,
+    "timeWeek": 1067,
+    "timeMonth": 1608,
     "timeYear": 1373,
     "dailyMinutesDown": {
       "2023-10-11": 76,
@@ -111,8 +110,7 @@
       "2022-12-31": 178,
       "2022-12-30": 48,
       "2022-11-26": 54,
-      "2022-11-24": 1253,
-      "2022-11-23": 1440
+      "2022-11-24": 1253
     }
   },
   {
@@ -125,12 +123,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.49%",
-    "time": 1568,
-    "timeDay": 1376,
-    "timeWeek": 1352,
-    "timeMonth": 1388,
-    "timeYear": 1357,
+    "uptimeYear": "92.77%",
+    "time": 1569,
+    "timeDay": 1395,
+    "timeWeek": 1333,
+    "timeMonth": 1384,
+    "timeYear": 1324,
     "dailyMinutesDown": {
       "2023-10-11": 82,
       "2023-10-06": 546,
@@ -170,8 +168,7 @@
       "2023-02-01": 16,
       "2023-01-17": 23,
       "2022-11-26": 54,
-      "2022-11-24": 1253,
-      "2022-11-23": 1440
+      "2022-11-24": 1253
     }
   },
   {
@@ -185,10 +182,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 4164,
-    "timeDay": 49,
-    "timeWeek": 148,
-    "timeMonth": 157,
+    "time": 4156,
+    "timeDay": 37,
+    "timeWeek": 133,
+    "timeMonth": 152,
     "timeYear": 4378,
     "dailyMinutesDown": {
       "2023-05-12": 476,
