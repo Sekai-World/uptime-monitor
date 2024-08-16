@@ -10,7 +10,7 @@ sites:
   - name: Strapi
     url: https://strapi.sekai.best
   - name: Storage
-    url: https://storage.sekai.best/sekai-assets/character/member_small/res001_no001_rip/card_normal.webp
+    url: https://storage.sekai.best/sekai-jp-assets/character/member_small/res001_no001_rip/card_normal.webp
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
