@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 1507,
-    "timeDay": 766,
-    "timeWeek": 989,
-    "timeMonth": 857,
+    "time": 1506,
+    "timeDay": 715,
+    "timeWeek": 960,
+    "timeMonth": 853,
     "timeYear": 1587,
     "dailyMinutesDown": {
       "2024-08-17": 789,
@@ -38,13 +38,13 @@
     "uptime": "94.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.95%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "96.97%",
     "time": 1425,
-    "timeDay": 678,
-    "timeWeek": 901,
-    "timeMonth": 841,
-    "timeYear": 1415,
+    "timeDay": 982,
+    "timeWeek": 904,
+    "timeMonth": 850,
+    "timeYear": 1414,
     "dailyMinutesDown": {
       "2024-09-04": 367,
       "2024-09-03": 1440,
@@ -73,8 +73,7 @@
       "2023-12-22": 63,
       "2023-12-03": 23,
       "2023-10-11": 76,
-      "2023-10-06": 546,
-      "2023-10-05": 616
+      "2023-10-06": 546
     }
   },
   {
@@ -88,10 +87,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
-    "time": 1321,
-    "timeDay": 723,
-    "timeWeek": 857,
-    "timeMonth": 812,
+    "time": 1320,
+    "timeDay": 1019,
+    "timeWeek": 895,
+    "timeMonth": 824,
     "timeYear": 1321,
     "dailyMinutesDown": {
       "2024-08-17": 895,
@@ -108,8 +107,7 @@
       "2024-05-08": 129,
       "2024-04-28": 153,
       "2023-10-11": 82,
-      "2023-10-06": 546,
-      "2023-10-05": 616
+      "2023-10-06": 546
     }
   },
   {
@@ -118,16 +116,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/storage.sekai.best.ico",
     "slug": "storage",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.31%",
     "time": 167,
-    "timeDay": 381,
-    "timeWeek": 175,
-    "timeMonth": 178,
-    "timeYear": 176,
+    "timeDay": 161,
+    "timeWeek": 177,
+    "timeMonth": 182,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2024-08-16": 439,
       "2024-08-15": 1440,
