@@ -47,7 +47,7 @@
     "time": 1210,
     "timeDay": 834,
     "timeWeek": 841,
-    "timeMonth": 930,
+    "timeMonth": 779,
     "timeYear": 1229,
     "dailyMinutesDown": {
       "2025-01-31": 164,
@@ -96,7 +96,7 @@
     "time": 1162,
     "timeDay": 927,
     "timeWeek": 859,
-    "timeMonth": 794,
+    "timeMonth": 801,
     "timeYear": 1155,
     "dailyMinutesDown": {
       "2025-01-31": 58,
@@ -123,9 +123,9 @@
     "url": "https://storage.sekai.best/sekai-best-assets/models.json",
     "icon": "https://icons.duckduckgo.com/ip3/storage.sekai.best.ico",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.31%",
@@ -135,6 +135,7 @@
     "timeMonth": 329,
     "timeYear": 299,
     "dailyMinutesDown": {
+      "2025-03-01": 0,
       "2024-08-16": 439,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
