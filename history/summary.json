@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 1289,
-    "timeDay": 1229,
-    "timeWeek": 881,
+    "timeDay": 763,
+    "timeWeek": 853,
     "timeMonth": 830,
     "timeYear": 1316,
     "dailyMinutesDown": {
@@ -28,8 +28,7 @@
       "2024-07-20": 16,
       "2024-06-10": 55,
       "2024-06-06": 20,
-      "2024-05-29": 23,
-      "2024-05-08": 64
+      "2024-05-29": 23
     }
   },
   {
@@ -44,10 +43,10 @@
     "uptimeMonth": "99.12%",
     "uptimeYear": "96.43%",
     "time": 1177,
-    "timeDay": 1051,
-    "timeWeek": 968,
-    "timeMonth": 995,
-    "timeYear": 1158,
+    "timeDay": 719,
+    "timeWeek": 920,
+    "timeMonth": 999,
+    "timeYear": 1159,
     "dailyMinutesDown": {
       "2025-04-10": 373,
       "2025-04-09": 12,
@@ -83,8 +82,7 @@
       "2024-06-10": 53,
       "2024-06-06": 19,
       "2024-05-29": 35,
-      "2024-05-14": 341,
-      "2024-05-08": 64
+      "2024-05-14": 341
     }
   },
   {
@@ -98,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.35%",
-    "time": 1111,
-    "timeDay": 1301,
-    "timeWeek": 829,
-    "timeMonth": 794,
-    "timeYear": 1080,
+    "time": 1113,
+    "timeDay": 824,
+    "timeWeek": 882,
+    "timeMonth": 802,
+    "timeYear": 1079,
     "dailyMinutesDown": {
       "2025-04-14": 59,
       "2025-04-09": 18,
@@ -121,8 +119,7 @@
       "2024-05-29": 34,
       "2024-05-20": 17,
       "2024-05-14": 17,
-      "2024-05-10": 27,
-      "2024-05-08": 129
+      "2024-05-10": 27
     }
   },
   {
@@ -132,15 +129,15 @@
     "slug": "storage",
     "status": "up",
     "uptime": "97.30%",
-    "uptimeDay": "95.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
-    "uptimeMonth": "96.16%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "93.51%",
-    "time": 323,
-    "timeDay": 2273,
-    "timeWeek": 1126,
-    "timeMonth": 700,
-    "timeYear": 379,
+    "time": 324,
+    "timeDay": 585,
+    "timeWeek": 1118,
+    "timeMonth": 708,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2025-05-06": 62,
       "2025-04-08": 221,
