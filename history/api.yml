@@ -1,7 +1,7 @@
 url: https://api.sekai.best/status
-status: up
-code: 200
-responseTime: 1009
-lastUpdated: 2025-06-05T01:06:06.256Z
+status: down
+code: 403
+responseTime: 204
+lastUpdated: 2025-06-05T02:50:14.968Z
 startTime: 2021-05-04T09:10:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
