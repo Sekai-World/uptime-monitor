@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.93%",
-    "time": 1099,
-    "timeDay": 1102,
-    "timeWeek": 857,
-    "timeMonth": 789,
-    "timeYear": 1103,
+    "time": 1098,
+    "timeDay": 862,
+    "timeWeek": 866,
+    "timeMonth": 794,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2025-06-07": 159,
       "2025-06-06": 1200,
@@ -41,14 +41,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sekai.best.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "96.98%",
+    "uptime": "96.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.30%",
     "time": 1023,
-    "timeDay": 1471,
-    "timeWeek": 999,
+    "timeDay": 835,
+    "timeWeek": 1000,
     "timeMonth": 988,
     "timeYear": 986,
     "dailyMinutesDown": {
@@ -101,10 +101,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.04%",
-    "time": 962,
-    "timeDay": 1046,
-    "timeWeek": 838,
-    "timeMonth": 754,
+    "time": 961,
+    "timeDay": 835,
+    "timeWeek": 849,
+    "timeMonth": 756,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2025-06-07": 159,
@@ -138,10 +138,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.69%",
+    "uptimeYear": "93.96%",
     "time": 401,
-    "timeDay": 718,
-    "timeWeek": 623,
+    "timeDay": 427,
+    "timeWeek": 581,
     "timeMonth": 556,
     "timeYear": 441,
     "dailyMinutesDown": {
@@ -177,8 +177,7 @@
       "2025-03-02": 640,
       "2025-03-01": 544,
       "2024-08-16": 439,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   }
 ]
