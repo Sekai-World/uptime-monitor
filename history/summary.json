@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.93%",
-    "time": 1098,
-    "timeDay": 617,
-    "timeWeek": 851,
-    "timeMonth": 783,
-    "timeYear": 1103,
+    "uptimeYear": "97.94%",
+    "time": 1099,
+    "timeDay": 1066,
+    "timeWeek": 910,
+    "timeMonth": 791,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2025-06-07": 159,
       "2025-06-06": 1200,
@@ -30,8 +30,7 @@
       "2025-01-28": 848,
       "2024-11-23": 59,
       "2024-11-21": 29,
-      "2024-08-17": 789,
-      "2024-08-16": 241
+      "2024-08-17": 789
     }
   },
   {
@@ -45,10 +44,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.30%",
-    "time": 1020,
-    "timeDay": 719,
-    "timeWeek": 998,
-    "timeMonth": 967,
+    "time": 1021,
+    "timeDay": 1324,
+    "timeWeek": 996,
+    "timeMonth": 987,
     "timeYear": 986,
     "dailyMinutesDown": {
       "2025-06-07": 159,
@@ -84,8 +83,7 @@
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 310,
-      "2024-08-17": 922,
-      "2024-08-16": 241
+      "2024-08-17": 922
     }
   },
   {
@@ -95,17 +93,16 @@
     "slug": "strapi",
     "status": "up",
     "uptime": "96.52%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.05%",
     "time": 961,
-    "timeDay": 1069,
-    "timeWeek": 902,
-    "timeMonth": 783,
+    "timeDay": 1168,
+    "timeWeek": 906,
+    "timeMonth": 791,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2025-08-15": 8,
       "2025-06-07": 159,
       "2025-06-06": 1262,
       "2025-06-05": 1142,
@@ -122,8 +119,7 @@
       "2025-01-28": 51,
       "2024-11-23": 57,
       "2024-11-21": 28,
-      "2024-08-17": 895,
-      "2024-08-16": 240
+      "2024-08-17": 895
     }
   },
   {
@@ -132,16 +128,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/storage.sekai.best.ico",
     "slug": "storage",
     "status": "up",
-    "uptime": "96.99%",
+    "uptime": "97.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.36%",
-    "time": 402,
-    "timeDay": 417,
-    "timeWeek": 537,
-    "timeMonth": 550,
-    "timeYear": 441,
+    "uptimeYear": "94.51%",
+    "time": 403,
+    "timeDay": 760,
+    "timeWeek": 557,
+    "timeMonth": 557,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2025-06-07": 57,
       "2025-06-06": 1092,
@@ -173,8 +169,7 @@
       "2025-03-04": 291,
       "2025-03-03": 89,
       "2025-03-02": 640,
-      "2025-03-01": 544,
-      "2024-08-16": 439
+      "2025-03-01": 544
     }
   }
 ]
