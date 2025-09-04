@@ -1,7 +1,7 @@
 url: https://strapi.sekai.best
-status: up
-code: 200
-responseTime: 540
-lastUpdated: 2025-09-04T13:58:08.713Z
+status: down
+code: 503
+responseTime: 744
+lastUpdated: 2025-09-04T15:28:24.580Z
 startTime: 2021-05-04T09:10:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
