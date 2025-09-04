@@ -42,7 +42,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.79%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "97.09%",
+    "uptimeYear": "97.10%",
     "time": 1039,
     "timeDay": 899,
     "timeWeek": 2065,
@@ -76,8 +76,7 @@
       "2024-11-21": 28,
       "2024-11-04": 459,
       "2024-10-05": 401,
-      "2024-10-04": 454,
-      "2024-09-04": 367
+      "2024-10-04": 454
     }
   },
   {
@@ -87,17 +86,18 @@
     "slug": "strapi",
     "status": "down",
     "uptime": "96.52%",
-    "uptimeDay": "76.00%",
-    "uptimeWeek": "87.48%",
-    "uptimeMonth": "97.12%",
-    "uptimeYear": "98.02%",
+    "uptimeDay": "71.92%",
+    "uptimeWeek": "86.90%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "98.01%",
     "time": 953,
     "timeDay": 796,
     "timeWeek": 717,
     "timeMonth": 1124,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2025-09-03": 346,
+      "2025-09-04": 37,
+      "2025-09-03": 368,
       "2025-09-02": 188,
       "2025-09-01": 657,
       "2025-08-31": 72,
