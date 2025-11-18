@@ -1,7 +1,7 @@
 url: https://storage.sekai.best/sekai-best-assets/models.json
-status: up
-code: 200
-responseTime: 706
-lastUpdated: 2025-11-17T23:15:47.845Z
+status: down
+code: 500
+responseTime: 260
+lastUpdated: 2025-11-18T11:37:29.063Z
 startTime: 2022-10-27T13:36:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
