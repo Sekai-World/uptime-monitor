@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.01%",
     "time": 921,
-    "timeDay": 1114,
-    "timeWeek": 926,
-    "timeMonth": 1245,
-    "timeYear": 930,
+    "timeDay": 1063,
+    "timeWeek": 984,
+    "timeMonth": 1253,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2025-12-11": 212,
       "2025-12-03": 31,
@@ -32,8 +32,7 @@
       "2025-05-31": 665,
       "2025-05-30": 81,
       "2025-05-29": 59,
-      "2025-01-31": 18,
-      "2025-01-28": 848
+      "2025-01-31": 18
     }
   },
   {
@@ -48,10 +47,10 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "97.30%",
     "time": 1126,
-    "timeDay": 1076,
-    "timeWeek": 1138,
-    "timeMonth": 1300,
-    "timeYear": 1196,
+    "timeDay": 1558,
+    "timeWeek": 1185,
+    "timeMonth": 1286,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2026-01-11": 105,
       "2025-12-11": 218,
@@ -81,8 +80,7 @@
       "2025-03-17": 534,
       "2025-03-16": 155,
       "2025-03-10": 101,
-      "2025-01-31": 164,
-      "2025-01-28": 848
+      "2025-01-31": 164
     }
   },
   {
@@ -96,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.82%",
-    "time": 1125,
-    "timeDay": 1011,
-    "timeWeek": 1015,
-    "timeMonth": 1875,
-    "timeYear": 1196,
+    "time": 1115,
+    "timeDay": 1044,
+    "timeWeek": 1055,
+    "timeMonth": 1863,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2025-12-11": 218,
       "2025-11-30": 540,
@@ -138,8 +136,7 @@
       "2025-04-14": 59,
       "2025-04-09": 18,
       "2025-03-10": 106,
-      "2025-01-31": 58,
-      "2025-01-28": 51
+      "2025-01-31": 58
     }
   },
   {
@@ -153,11 +150,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "93.34%",
     "uptimeYear": "94.00%",
-    "time": 561,
-    "timeDay": 1342,
-    "timeWeek": 2891,
-    "timeMonth": 1238,
-    "timeYear": 568,
+    "time": 565,
+    "timeDay": 2626,
+    "timeWeek": 3063,
+    "timeMonth": 1295,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2026-01-22": 20,
       "2026-01-16": 1150,
