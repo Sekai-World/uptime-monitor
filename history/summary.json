@@ -42,17 +42,18 @@
     "slug": "api",
     "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "22.07%",
+    "uptimeDay": "17.90%",
     "uptimeWeek": "66.82%",
-    "uptimeMonth": "90.43%",
-    "uptimeYear": "96.84%",
+    "uptimeMonth": "90.29%",
+    "uptimeYear": "96.83%",
     "time": 1281,
     "timeDay": 1687,
     "timeWeek": 3505,
     "timeMonth": 2406,
     "timeYear": 1358,
     "dailyMinutesDown": {
-      "2026-03-27": 1122,
+      "2026-03-28": 58,
+      "2026-03-27": 1124,
       "2026-03-26": 184,
       "2026-03-23": 55,
       "2026-03-22": 1173,
@@ -95,7 +96,7 @@
     "status": "up",
     "uptime": "99.03%",
     "uptimeDay": "74.46%",
-    "uptimeWeek": "76.02%",
+    "uptimeWeek": "76.62%",
     "uptimeMonth": "92.62%",
     "uptimeYear": "95.84%",
     "time": 1161,
@@ -156,9 +157,9 @@
     "slug": "storage",
     "status": "down",
     "uptime": "97.06%",
-    "uptimeDay": "52.45%",
+    "uptimeDay": "48.29%",
     "uptimeWeek": "73.37%",
-    "uptimeMonth": "92.29%",
+    "uptimeMonth": "92.15%",
     "uptimeYear": "93.70%",
     "time": 655,
     "timeDay": 5959,
@@ -166,7 +167,8 @@
     "timeMonth": 1932,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2026-03-27": 684,
+      "2026-03-28": 58,
+      "2026-03-27": 686,
       "2026-03-22": 1188,
       "2026-03-21": 810,
       "2026-03-20": 694,
@@ -199,8 +201,7 @@
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   }
 ]
