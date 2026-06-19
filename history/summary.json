@@ -32,11 +32,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sekai.best.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "97.71%",
+    "uptime": "99.02%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "97.69%",
     "time": 1358,
     "timeDay": 596,
     "timeWeek": 526,
@@ -74,7 +74,7 @@
       "2026-05-09": 77,
       "2026-05-08": 553,
       "2026-05-23": 57,
-      "2026-06-19": 0
+      "2026-06-19": 131
     }
   },
   {
