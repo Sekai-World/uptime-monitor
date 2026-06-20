@@ -31,17 +31,17 @@
     "url": "https://api.sekai.best/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.sekai.best.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "70.25%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "94.83%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "97.61%",
-    "time": 1359,
-    "timeDay": 554,
-    "timeWeek": 531,
-    "timeMonth": 611,
-    "timeYear": 1528,
+    "time": 1358,
+    "timeDay": 299,
+    "timeWeek": 498,
+    "timeMonth": 599,
+    "timeYear": 1525,
     "dailyMinutesDown": {
       "2025-08-30": 16,
       "2025-08-31": 66,
@@ -74,7 +74,8 @@
       "2026-05-09": 77,
       "2026-05-08": 553,
       "2026-05-23": 57,
-      "2026-06-19": 521
+      "2026-06-19": 521,
+      "2026-06-20": 0
     }
   },
   {
