@@ -33,9 +33,9 @@
     "slug": "api",
     "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "89.08%",
-    "uptimeWeek": "93.27%",
-    "uptimeMonth": "98.32%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "93.24%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "97.58%",
     "time": 1359,
     "timeDay": 381,
@@ -76,7 +76,7 @@
       "2026-05-23": 57,
       "2026-06-19": 521,
       "2026-06-20": 157,
-      "2026-06-21": 0
+      "2026-06-21": 3
     }
   },
   {
